@@ -1,0 +1,58 @@
+{
+    "libros":[
+        {
+            "codigo":"001",
+            "titulo":"EL CORONEL NO TIENE QUIEN LE ESCRIBA",
+            "autor":"Gabriel Garcia Marquez",
+            "edicion":"Salamandra",
+            "idioma":"Español",
+            "cantidad":"2",
+            "genero":"novelas"
+        },
+        {
+            "codigo":"002",
+            "titulo":"ROSARIO TIJERAS",
+            "autor":"Gabriel Garcia Marquez",
+            "edicion":"Salamandra",
+            "idioma":"Español",
+            "cantidad":"3",
+            "genero":"novelas"
+        },
+        {
+            "codigo":"003",
+            "titulo":"TODA UNA VIDA",
+            "autor":"Robert Seethaler",
+            "edicion":"Salamandra",
+            "idioma":"Español",
+            "cantidad":"1",
+            "genero":"novelas"
+        },
+        {
+            "codigo":"001",
+            "titulo":"LA SOMBRA DEL TIEMPO",
+            "autor":"Carlos Ruiz Zafón",
+            "edicion":"Editorial Planeta",
+            "idioma":"Español",
+            "cantidad":"2",
+            "genero":"novelas"
+        },
+        {
+            "codigo":"002",
+            "titulo":"INQUITUD EN EL PARAISO",
+            "autor":"Óscar Esquivias",
+            "edicion":"Ediciones del viento",
+            "idioma":"Español",
+            "cantidad":"3",
+            "genero":"novelas"
+        },
+        {
+            "codigo":"003",
+            "titulo":"MEJOR LA AUSENCIA",
+            "autor":"Edurne Portela",
+            "edicion":"Galaxia Gutenberg",
+            "idioma":"Español",
+            "cantidad":"1",
+            "genero":"novelas"
+        }
+    ]
+}
